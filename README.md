@@ -2,7 +2,7 @@
 
 
 ## What it is!
-Argos3 project is a mulit-robot simulation running on a Vagrant Ubuntu Xenial VM guest Windows host.
+A Argos3 mulit-robot simulation project running on a Vagrant Ubuntu Xenial VM guest Windows host.
 
 
 ## Versions
@@ -34,6 +34,7 @@ Start by navigating to the "vagrant" folder in your installation directory using
     * $ vagrant up
     * $ vagrant ssh
     * $ cd /vagrant
+
 
 ## Licensing
 FREE
